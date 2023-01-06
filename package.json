@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-tests",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elanieli/hexlet-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elanieli/hexlet-tests/issues"
+  },
+  "homepage": "https://github.com/Elanieli/hexlet-tests#readme"
+}
